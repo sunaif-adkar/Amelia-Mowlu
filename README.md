@@ -1,5 +1,5 @@
 # Amelia-Mowlu
-```this contribute full copyright by sunaif-adkar &and; BL4CK-4L13N```
+```this contribute full copyright by sunaif-adkar & BL4CK-4L13N```
 
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/7a027595c903f8cb9b35b.png" width="200" height="300"/>
