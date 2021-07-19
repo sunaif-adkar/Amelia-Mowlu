@@ -10,7 +10,7 @@
 ### SET UP
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sunaif-adkar/Amelia-Mowlu.git)
-
+<p align="center">
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
