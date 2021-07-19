@@ -1,7 +1,9 @@
 # Amelia-Mowlu
 ```this contribute full copyright by sunaif-adkar &and; BL4CK-4L13N```
 
-https://telegra.ph/file/7a027595c903f8cb9b35b.png
+<div align="center">
+  <img border-radius: 15px src="https://telegra.ph/file/7a027595c903f8cb9b35b.png" width="200" height="200"/>
+  <p align="center">
 
 ### how are you dears I am hopely thinking your all fine are you enjoying my project 😌🤹
 
