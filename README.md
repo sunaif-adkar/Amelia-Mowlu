@@ -5,7 +5,7 @@
 
 --------
 
-![My card name](https://cardivo.vercel.app/api?name=Amelia-Mowlu&description=TelegramBot,%20WELCOME%20TO%20di%20github%20sunaif-adkar%20&image=https://github.com/sunaif-adkar.png?v=4&backgroundColor=%23ecf0f1&instagram=sunaif_adkar&github=sunaif-adkar&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Amelia-Mowlu&description=TelegramBot,%20WELCOME%20TO%20di%20github%20sunaif-adkar%20&image=https://telegra.ph/file/7a027595c903f8cb9b35b.png?v=4&backgroundColor=%23ecf0f1&instagram=sunaif_adkar&github=sunaif-adkar&pattern=leaf&colorPattern=%23eaeaea)
 
  ---------
 
