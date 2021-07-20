@@ -10,6 +10,7 @@
 ### SET UP
 
 Project working on progress after you can deploy 😌🤹
+<p align="center">
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
