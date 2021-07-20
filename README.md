@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Amelia-Mowlu 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/angel.gif" width="29px"> Amelia-Mowlu 
 ```this contribute full copyright by sunaif-adkar & BL4CK-4L13N```
 
 <div align="center">
