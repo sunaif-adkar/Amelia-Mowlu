@@ -24,11 +24,13 @@
 
 
 
+
 ## Developers
   <div align="center">
     
-  [![sunaif-adkar](https://github.com/sunaif-adkar.png?size=100)](https://github.com/sunaif-adkar) |  [![AKR MODS](https://telegra.ph/file/8426fdb98e7c692187ce4.jpg?size=100)](https://github.com/BL4CK-4L13N) | [![SaMods](https://telegra.ph/file/73d6e190b1f18e12a87f8.png?size=100)](https://wa.me/message/N2MKXYOCTXS6K1) 
+  [![sunaif-adkar](https://github.com/sunaif-adkar.png?size=100)](https://github.com/sunaif-adkar) |  [![AKR MODS](https://telegra.ph/file/8426fdb98e7c692187ce4.jpg?size=100)](https://github.com/BL4CK-4L13N) | [![ɪͥᴛͭsᷤ ᴍͫᴇͤ ᏞuᏦᎬ](https://https://telegra.ph/file/bc50dcd1bafa37dbf230d.png?size=100)](https://github.com/georgyLM10) 
 ----|----|----
-[sunaif-adkar](https://github.com/sunaif-adkar)  | [AKR MODS](https://BL4CK-4L13N) | [SaMods](https://wa.me/message/N2MKXYOCTXS6K1)
-CREATER AND FOUNDER | Created contribute  | Bug Fixes, Modules
+[sunaif-adkar](https://github.com/sunaif-adkar)  | [AKR MODS](https://BL4CK-4L13N) | [ɪͥᴛͭsᷤ ᴍͫᴇͤ ᏞuᏦᎬ](https://github.com/georgyLM10)
+CREATER AND FOUNDER | Created contribute  | managing director
   </div>
+
