@@ -9,7 +9,7 @@
 
 ### SET UP
 
-Project working on progress after you can deploy 😌🤹
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sunaif-adkar/Amelia-Mowlu.git)
 <p align="center">
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
