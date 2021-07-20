@@ -1,4 +1,4 @@
-# Amelia-Mowlu https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/monkey.gif
+# Amelia-Mowlu https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hi.gif
 ```this contribute full copyright by sunaif-adkar & BL4CK-4L13N```
 
 <div align="center">
