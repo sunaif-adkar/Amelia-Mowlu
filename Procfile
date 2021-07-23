@@ -1,1 +1,9 @@
-web: python3 -m tg_bot
+### SORRY CODE IS UNDER ACTION LOCKED 👿
+
+###THANKS FOR FORKING 🤹 BUT YOU CANT RENAME🏌️
+
+     CODDED BY 😌
+                #SUNAIF💥 ADKAR
+
+
+        IF YOU THINK YOU BAD IM OUR DAD 😉
